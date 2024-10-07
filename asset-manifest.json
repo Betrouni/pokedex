@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Betrouni/pokedex/static/css/main.bd15068a.css",
+    "main.js": "/Betrouni/pokedex/static/js/main.388295ec.js",
+    "index.html": "/Betrouni/pokedex/index.html",
+    "main.bd15068a.css.map": "/Betrouni/pokedex/static/css/main.bd15068a.css.map",
+    "main.388295ec.js.map": "/Betrouni/pokedex/static/js/main.388295ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd15068a.css",
+    "static/js/main.388295ec.js"
+  ]
+}
